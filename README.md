@@ -21,6 +21,8 @@ It then compares every number quoted in Section 9 with the recomputed value and 
 
 The results in the paper were produced with Python 3.13.18, NumPy 2.5.3 and SciPy 1.18.1.
 
+The version used in the paper is the release `v1.0`.
+
 ## Usage
 
 ```
