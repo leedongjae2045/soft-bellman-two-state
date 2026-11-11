@@ -2,7 +2,7 @@
 """
 Reproduction of Section 9 ("Numerical Illustration") of
 "Existence and Local Stability of Fixed Points of Projected Soft Bellman Iteration
- as the Discount Factor Varies: A Two-State Case Study" (v5).
+ as the Discount Factor Varies: A Two-State Case Study".
 
 Usage
     python reproduce_section9.py [--outdir DIR] [--no-fig]
