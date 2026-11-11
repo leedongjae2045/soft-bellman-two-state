@@ -19,7 +19,7 @@ It then compares every number quoted in Section 9 with the recomputed value and 
 - NumPy and SciPy
 - Matplotlib (only for Figure 5; it can be skipped with `--no-fig`)
 
-The results in the paper were produced with Python 3.13.18, NumPy 2.5.3 and SciPy 1.18.1.
+The results in the paper were produced with Python 3.13.18, NumPy 2.4.6 and SciPy 1.16.3.
 
 The version used in the paper is the release `v1.0`.
 
